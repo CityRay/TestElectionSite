@@ -73,7 +73,7 @@ function App() {
               <a href="#donate">抖內喵</a>
             </li>
             <li>
-              <a href="#contact">聯繫喵</a>
+              <a href="#contact">聯繫喵.</a>
             </li>
           </ul>
         </div>
